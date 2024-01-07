@@ -21,3 +21,5 @@ By using this project or its source code, for any purpose and in any shape or fo
 - You condemn all forms of genocide against any peoples for any reason, including but not limited to that of the peoples of Palestine and western Sudan.
 
 ---
+
+This is a template for repositories under the Trioxichor project umbrella.
