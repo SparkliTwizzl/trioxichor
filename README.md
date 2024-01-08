@@ -24,4 +24,4 @@ By using this project or its source code, for any purpose and in any shape or fo
 
 ---
 
-This is a template for repositories under the Trioxichor project umbrella.
+Trioxichor is a collection of applications to do varyingly esoteric things.
