@@ -3,6 +3,8 @@
 <h3 align="center">Version 0.0</h3>
 <h4 align="center">/ˈtriˌɑksɪˌkɔːr/ (noun) The scent of electricity, particularly that of ozone caused by oxidation of air.</h4>
 
+Part of the [Trioxichor project](https://github.com/SparkliTwizzl/trioxichor).
+
 ---
 
 [Source code and releases](https://github.com/SparkliTwizzl/trioxichor)
