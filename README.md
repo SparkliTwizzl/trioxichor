@@ -25,3 +25,6 @@ By using this project or its source code, for any purpose and in any shape or fo
 ---
 
 Trioxichor is a collection of applications to do varyingly esoteric things.
+
+- [Petrichor](https://github.com/sparklitwizzl/petrichor) - A utility app with various disjointed functions.
+- (planned) [Spilichor](https://github.com/sparklitwizzl/spilichor) - A tabletop game card editing studio.
