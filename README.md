@@ -1,19 +1,17 @@
-<div align="center"><image width="200" src="./branding/logo.png"></div>
+<div align="center"><image width="200" src="./Branding/logo.png"></div>
 <h1 align="center">Trioxichor</h1>
-<h3 align="center">Version 0.0</h3>
 <h4 align="center">/ˈtriˌɑksɪˌkɔːr/ (noun) The scent of ozone, particularly when caused by oxidation of air by electricity.</h4>
 
-<div align="center">Part of the <a href="https://github.com/SparkliTwizzl/trioxichor">Trioxichor project</a>.</div>
+<div align="center">This repository is the hub for the <a href="https://github.com/SparkliTwizzl/trioxichor">Trioxichor project</a>.</div>
 
 ---
 
 [Source code and releases](https://github.com/SparkliTwizzl/trioxichor)
 
-Trioxichor is licensed under the [Anti-Exploitation License Noncommercial Attribution v1.1 (AEL-NC-AT 1.1)](https://github.com/SparkliTwizzl/anti-exploitation-license). By using this project or its source material, you agree to abide by the terms of this license.
+Trioxichor is licensed under the [Anti-Exploitation License Attribution Commercial Derivatives-Allowed Open-Source v3.0 (AEL-AT-CM-DA-OS 3.0)](https://github.com/SparkliTwizzl/anti-exploitation-license). By using this project or its source material, you agree to abide by the terms of this license.
 
 ---
 
-Trioxichor is a collection of applications to do varyingly esoteric things.
+# Projects under the Trioxichor umbrella
 
-- [Petrichor](https://github.com/sparklitwizzl/petrichor) - A utility app with various disjointed functions.
-- [Spilichor](https://github.com/sparklitwizzl/spilichor) (planned) - A tabletop game card editing studio.
+- [Trioxichor Logging Module](https://github.com/SparkliTwizzl/trioxichor-module-logging)
